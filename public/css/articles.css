@@ -1,0 +1,28 @@
+.article {
+    margin-bottom: 1rem;
+}
+
+.article .title {
+    font-size: 1.5rem;
+    color: #3B5998;
+}
+
+.article .author {
+    font-size: 0.75rem;
+    color: #B9B9B9;
+}
+
+.article .text {
+    border-left: 4px solid #B9B9B9;
+    padding-left: 1rem;
+}
+
+.article .attachment li {
+    font-size: 0.75rem;
+    color: #B9B9B9;
+}
+
+.article li a {
+    text-decoration: none;
+    color: #3B5998;
+}
